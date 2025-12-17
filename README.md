@@ -18,7 +18,7 @@ Office furniture and supplies generate less revenue compared to technology and r
   <img src="retail-sales-analysis/3. figures/sales_by_category.png" width="500">
 
 3. Which customer segments are buying less?
-Home Office contributes the least to total revenue. Revenue concentration in Consumer increases dependency risk and reduces predictability.
+Home Office contributes the least to total revenue. Revenue concentration in consumer increases dependency risk and reduces predictability.
   ### Sales by Segment
   <img src="retail-sales-analysis/3. figures/sales_by_segment.png" width="500">
 
@@ -35,7 +35,7 @@ Sales show strong seasonality in the second quarter, reaching their peaks during
 The West and East regions generate higher sales but also higher volatility.
 
 6. Where are the sales outliers and why do they occur?
-
+Outliers in sales vary depending on the detection method, revealing different patterns of behavior among categories. These values represent different revenue dynamics; in furniture, they suggest occasional bulk or high-end purchases, and in technology, they represent high-priced items and strategic customers.
    
 7. What strategic recommendations can be made?
   -Diversify revenue away from consumer dependency.
@@ -59,27 +59,12 @@ The project follows an end-to-end analytical workflow:
 - Corporate segment shows consistent growth potential
 - Sales present strong seasonality, especially in Q3 and Q4
 
-## Visual Insights
-### Yearly Sales Trend
-<img src="retail-sales-analysis/3. figures/yearly_sales_trend.png" width="500">
-
-### Monthly Seasonality
-<img src="retail-sales-analysis/3. figures/monthly_seasonality.png" width="500">
-
-
-
-### Sales Outliers Distribution
-<img src="retail-sales-analysis/3. figures/box_plot_outliers.png" width="500">
-
-
-
-
 
 ## Business Recommendations
-- Strengthen the Corporate segment to increase predictable revenue
-- Reduce dependency on Consumer sales through diversification
-- Leverage seasonality for inventory and campaign planning
-- Treat high-value outliers as strategic clients rather than anomalies
+- Strengthen the Corporate segment to increase predictable revenue.
+- Reduce dependency on Consumer sales through diversification.
+- Leverage seasonality for inventory and campaign planning.
+- Treat high-value outliers as strategic clients rather than anomalies.
 
 ## Tools
 - Python
