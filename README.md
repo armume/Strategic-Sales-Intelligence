@@ -35,7 +35,7 @@ The project follows an end-to-end analytical workflow:
 
 ## Visual Insights
 ### Yearly Sales Trend
-<img src="Retail Sales Analysis/3.figures/yearly_sales_trend.png" width="700">
+<img src="retail-sales-analysis/3.figures/yearly_sales_trend.png" width="700">
 
 ### Monthly Seasonality
 ![Monthly Seasonality](3.figures/monthly_seasonality.png)
