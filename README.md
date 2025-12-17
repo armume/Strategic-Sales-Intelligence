@@ -34,20 +34,23 @@ The project follows an end-to-end analytical workflow:
 - Sales present strong seasonality, especially in Q3 and Q4
 
 ## Visual Insights
+## Visual Insights
+
 ### Yearly Sales Trend
-![Yearly Sales Trend](3.figures/yearly_sales_trend.png)
+<img src="3.figures/yearly_sales_trend.png" width="700">
 
 ### Monthly Seasonality
-![Monthly Seasonality](3.figures/monthly_seasonality.png)
+<img src="3.figures/monthly_seasonality.png" width="700">
 
 ### Sales by Category
-![Sales by Category](3.figures/sales_by_category.png)
+<img src="3.figures/sales_by_category.png" width="700">
 
 ### Sales by Segment
-![Sales by Segment](3.figures/sales_by_segment.png)
+<img src="3.figures/sales_by_segment.png" width="700">
 
 ### Sales Outliers Distribution
-![Sales Outliers](3.figures/box_plot_outliers.png)
+<img src="3.figures/box_plot_outliers.png" width="700">
+
 
 
 ## Business Recommendations
