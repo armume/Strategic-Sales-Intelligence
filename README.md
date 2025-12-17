@@ -34,8 +34,6 @@ The project follows an end-to-end analytical workflow:
 - Sales present strong seasonality, especially in Q3 and Q4
 
 ## Visual Insights
-## Visual Insights
-
 ### Yearly Sales Trend
 <img src="3.figures/yearly_sales_trend.png" width="700">
 
