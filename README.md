@@ -10,12 +10,38 @@ Superstore Sales Dataset covering sales transactions from 2015–2018.
 
 ## Business Questions
 1. What factors explain the decline in sales?
+Sales declined by -5.3% in 2016, mainly due to a temporary contraction; no category collapsed completely. The decline in sales suggests external or general market factors rather than an internal product situation.
+
 2. Which products or categories are underperforming?
+Office furniture and supplies generate less revenue compared to technology and record fewer high-value transactions. These categories depend on volume rather than value, which limits revenue.
+  ### Sales by Category
+  <img src="retail-sales-analysis/3. figures/sales_by_category.png" width="500">
+
 3. Which customer segments are buying less?
-4. Are there relevant temporal trends (monthly, yearly)?
+Home Office contributes the least to total revenue. Revenue concentration in Consumer increases dependency risk and reduces predictability.
+  ### Sales by Segment
+  <img src="retail-sales-analysis/3. figures/sales_by_segment.png" width="500">
+
+4.Are there relevant temporal trends (monthly, yearly)?
+Sales show strong seasonality in the second quarter, reaching their peaks during the third and fourth quarters. This trend is evident every year. Seasonal planning is essential for product and marketing optimization.
+
+  ### Yearly Sales Trend
+  <img src="retail-sales-analysis/3. figures/yearly_sales_trend.png" width="500">
+  
+  ### Monthly Seasonality
+  <img src="retail-sales-analysis/3. figures/monthly_seasonality.png" width="500">
+
 5. Which regions show the greatest impact?
+The West and East regions generate higher sales but also higher volatility.
+
 6. Where are the sales outliers and why do they occur?
+
+   
 7. What strategic recommendations can be made?
+  -Diversify revenue away from consumer dependency.
+  -Strengthen corporate segment for stable growth.
+  -Treat high-value outliers as key accounts.
+  -Align campaigns with seasonal peaks.
 
 ## Analysis Overview
 The project follows an end-to-end analytical workflow:
@@ -35,19 +61,16 @@ The project follows an end-to-end analytical workflow:
 
 ## Visual Insights
 ### Yearly Sales Trend
-<img src="retail-sales-analysis/3.figures/yearly_sales_trend.png" width="700">
+<img src="retail-sales-analysis/3. figures/yearly_sales_trend.png" width="500">
 
 ### Monthly Seasonality
-![Monthly Seasonality](3.figures/monthly_seasonality.png)
+<img src="retail-sales-analysis/3. figures/monthly_seasonality.png" width="500">
 
-### Sales by Category
-![Sales by Category](3.figures/sales_by_category.png)
 
-### Sales by Segment
-![Sales by Segment](3.figures/sales_by_segment.png)
 
 ### Sales Outliers Distribution
-![Sales Outliers](3.figures/box_plot_outliers.png)
+<img src="retail-sales-analysis/3. figures/box_plot_outliers.png" width="500">
+
 
 
 
