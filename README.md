@@ -35,19 +35,20 @@ The project follows an end-to-end analytical workflow:
 
 ## Visual Insights
 ### Yearly Sales Trend
-<img src="3.figures/yearly_sales_trend.png" width="700">
+![Yearly Sales Trend](3.figures/yearly_sales_trend.png)
 
 ### Monthly Seasonality
-<img src="3.figures/monthly_seasonality.png" width="700">
+![Monthly Seasonality](3.figures/monthly_seasonality.png)
 
 ### Sales by Category
-<img src="3.figures/sales_by_category.png" width="700">
+![Sales by Category](3.figures/sales_by_category.png)
 
 ### Sales by Segment
-<img src="3.figures/sales_by_segment.png" width="700">
+![Sales by Segment](3.figures/sales_by_segment.png)
 
 ### Sales Outliers Distribution
-<img src="3.figures/box_plot_outliers.png" width="700">
+![Sales Outliers](3.figures/box_plot_outliers.png)
+
 
 
 
