@@ -1,5 +1,4 @@
-# Superstore Sales Analysis
-
+# Strategic Sales Intelligence
 ## Objective
 Analyze sales performance to identify revenue declines, customer behavior patterns,
 sales outliers, and regional differences, and translate findings into actionable business recommendations.
